@@ -1,6 +1,7 @@
 ![Header](https://github.com/Spy230/Spy230/blob/main/assets/77caa32884d735d439ade45ba37feaf2.gif)
 
-About me 
+I am a beginner developer with a focus on backend software development. I have experience with databases and desktop application creation. I am constantly broadening my knowledge in information security.
+
 
 Latest 
 
