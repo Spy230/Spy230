@@ -5,6 +5,15 @@ I am a beginner developer with a focus on backend software development. I have e
 
 Latest 
 
-Langiages and Tools 
+### Langiages and Tools 
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=47c5fb)
+![C++](https://img.shields.io/badge/-C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=A97BFF)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 Follow me 
