@@ -3,8 +3,6 @@
 I am a beginner developer with a focus on backend software development. I have experience with databases and desktop application creation. I am constantly broadening my knowledge in information security.
 
 
-Latest 
-
 ### Langiages and Tools 
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=47c5fb)
 ![C++](https://img.shields.io/badge/-C%2B%2B-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
@@ -16,4 +14,8 @@ Latest
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
 
-Follow me 
+### Follow me 
+
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=4C75A3)](https://vk.com/ohnospy)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/spy7400)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/@SpySpyq)
